@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZZ_Fragments__JVm</string>
+    <string name="B_1_ActivityMain_IDXML">Fragment 1</string>
+    <string name="B_2_ActivityMain_IDXML">Fragment 2</string>
+    <string name="TV_1_FragmentSatu_IDXML">Fragment 1</string>
+    <string name="TV_1_FragmentDua_IDXML">Fragment 2</string>
+</resources>
